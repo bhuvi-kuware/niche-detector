@@ -1,0 +1,27 @@
+*{
+    font-family: Poppins,Sans-serif;
+}
+h1{
+    font-size: 28px;
+}
+.section-content{
+    width: 600px;
+    min-height: 400px;
+    margin: 50px auto;
+    padding: 80px;
+}
+.google-login{
+    max-width: 432px;
+    display: flex;
+    align-items: center;
+    background: #4285f4;
+    border: none;
+    color: #fff;
+    border-radius: 2px;
+    padding: 0 18px 0 0;
+    white-space: pre;
+    margin: 0 auto;
+}
+.select2-container {
+    width: 100% !important;
+}
